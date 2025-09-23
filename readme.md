@@ -139,3 +139,4 @@ This project is for educational and demonstration purposes.
 
 ## View Live
 
+https://admin-pannel-js.vercel.app/
