@@ -526,7 +526,7 @@ body.dark .per {
 
 body.dark .statustitle h2,
 body.dark .statustitle p,
-body.dark .barchart .label {
+body.dark .piechart .label {
   color: white;
 }
 
